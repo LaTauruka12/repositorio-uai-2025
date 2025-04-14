@@ -1,0 +1,10 @@
+Algoritmo calcular_sueldo
+	definir sld, hs, vh como real;
+	Escribir'cantidad de horas';
+	Leer hs;
+	Escribir'valor de horas';
+	Leer vh;
+	sld=hs*vh;
+	Escribir'sueldo de los empleados es: ';
+	Escribir sld;
+FinAlgoritmo
